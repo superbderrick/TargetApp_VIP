@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "95269957942",
+    "firebase_url": "https://baby-shark-wash-your-hands.firebaseio.com",
+    "project_id": "baby-shark-wash-your-hands",
+    "storage_bucket": "baby-shark-wash-your-hands.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95269957942:android:1d44f45ca58643db02c397",
+        "android_client_info": {
+          "package_name": "kr.co.smartstudy.washhands_android_amazon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOb76LODPhF6wxmxDzS8It_fQZSsCFOeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95269957942:android:bfae42e6ebc386da02c397",
+        "android_client_info": {
+          "package_name": "kr.co.smartstudy.washhands_android_googlemarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOb76LODPhF6wxmxDzS8It_fQZSsCFOeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
