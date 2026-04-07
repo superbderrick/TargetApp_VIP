@@ -14,8 +14,8 @@ android {
         applicationId "kr.co.smartstudy.washhands_android_googlemarket"
         minSdk 24
         targetSdk 36
-        versionCode 90
-        versionName "0.90"
+        versionCode 92
+        versionName "0.92"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
