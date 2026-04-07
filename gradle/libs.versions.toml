@@ -12,6 +12,7 @@ installreferrer = "2.2"
 google-services = "4.4.1"
 firebase-bom = "33.1.0"
 playServicesMeasurementApi = "23.2.0"
+navigationCompose = "2.8.5"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -28,6 +29,7 @@ androidx-compose-ui-tooling-preview = { group = "androidx.compose.ui", name = "u
 androidx-compose-ui-test-manifest = { group = "androidx.compose.ui", name = "ui-test-manifest" }
 androidx-compose-ui-test-junit4 = { group = "androidx.compose.ui", name = "ui-test-junit4" }
 androidx-compose-material3 = { group = "androidx.compose.material3", name = "material3" }
+androidx-navigation-compose = { group = "androidx.navigation", name = "navigation-compose", version.ref = "navigationCompose" }
 google-installreferrer = { group = "com.android.installreferrer", name = "installreferrer", version.ref = "installreferrer" }
 google-firebase-bom = { group = "com.google.firebase", name = "firebase-bom", version.ref = "firebase-bom" }
 google-firebase-analytics = { group = "com.google.firebase", name = "firebase-analytics" }
@@ -37,9 +39,3 @@ play-services-measurement-api = { group = "com.google.android.gms", name = "play
 android-application = { id = "com.android.application", version.ref = "agp" }
 kotlin-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
 google-services = { id = "com.google.gms.google-services", version.ref = "google-services" }
-
-
-# ... 기존 버전들 아래에 추가
-
-
-# ... 기존 라이브러리들 아래에 추가
